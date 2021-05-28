@@ -1,0 +1,5 @@
+#Program using readlines()
+fileObj=open("file1.txt",'r')
+lines=fileObj.readlines()
+print(lines)
+fileObj.close()
