@@ -1,0 +1,7 @@
+fileObj=open("file2.txt","w")
+fileObj.write("English\n")
+fileObj.write("Physics\n")
+fileObj.write("Hindi\n")
+fileObj.write("Mathematics\n")
+fileObj.write("Computer science")
+fileObj.close()
