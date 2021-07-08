@@ -1,0 +1,6 @@
+Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+to to to
+1234 2 3 56 69 78 
+12 13 14 15 
+Iteration means repeatition
+
